@@ -1,8 +1,8 @@
 class ClaudeRcKeepalive < Formula
   desc "Keep claude remote-control sessions attached on macOS"
   homepage "https://github.com/VTAkbay/claude-rc-keepalive"
-  url "https://github.com/VTAkbay/claude-rc-keepalive/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "353440ea7a1cb5d40037176bc89a68b6bb98ae88e147f0cfd3f0658d660ba200"
+  url "https://github.com/VTAkbay/claude-rc-keepalive/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "6a3522dc14ddcc00dd44439cf044adef162f772f1645afd3e27bbd7e8576a47e"
   license "MIT"
 
   depends_on :macos
